@@ -1,0 +1,2 @@
+# HandGestureRecognition
+Hand gesture recognition is one of the active research areas in the field of human-computer interface. Gesture-controlled laptops and computers have recently gained a lot of attraction. Waving our hand in front of our computer/laptop allows us to manage certain functionalities. Hand gestures are the most natural and effortless manner of communicating even for a disabled person, gestures plays an important role.
