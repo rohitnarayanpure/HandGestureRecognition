@@ -1,0 +1,14 @@
+proton launch gesture recognition
+proton stop gesture recognition
+_________________
+proton what is todays date
+proton search github
+proton find location 
+mysore
+_______________________
+
+proton list files
+proton date 
+proton time
+proton bye
+proton wake up
